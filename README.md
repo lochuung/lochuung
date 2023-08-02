@@ -1,15 +1,15 @@
 
 <h1  align="center">Hi , I'm Nguyen Huu Loc<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="35"></h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  width = 50px></picture> About me
-<picture>  <img  align="right"  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"  width = 250px></picture>
+## <picture><img src = "https://github.com/lochuung/lochuung/blob/main/Images/about_me.gif?raw=true"  width = 50px></picture> About me
+<picture>  <img  align="right"  src="https://github.com/lochuung/lochuung/blob/main/Images/Right_Side.gif?raw=true"  width = 250px></picture>
 - :school: I am a `Student`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit <a href="https://4onl.net" target="_blank">MY WEBSITE</a>
 <br>
 
-## <picture>  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true"  width="100px">  </picture> Connect with me
+## <picture>  <img src="https://github.com/lochuung/lochuung/blob/main/Images/Connect-with-me.gif?raw=true"  width="100px">  </picture> Connect with me
 
 <p  align="center">
 <a  href="https://github.com/lochuung" target="_blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="GitHub"/></a>
@@ -18,7 +18,7 @@
 
 ## 🛠️ My Skills
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true"  width = 50px>  </picture> Programming languages
+### <picture><img src = "https://github.com/lochuung/lochuung/blob/main/Images/Programming_Languages.gif?raw=true"  width = 50px>  </picture> Programming languages
 <p  align="center">
 &emsp;
 <a  href="#">
@@ -38,7 +38,7 @@
 </a>
 </p>
 
-### <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true"  width = 50px>  </picture> Web Development
+### <picture>  <img src = "https://github.com/lochuung/lochuung/blob/main/Images/Front_End.gif?raw=true"  width = 50px>  </picture> Web Development
 
 <p  align="center">
 &emsp;
@@ -71,7 +71,7 @@
 </p>
 
 
-### <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true"  width = 50px>  </picture> IDEs
+### <picture>  <img src = "https://github.com/lochuung/lochuung/blob/main/Images/IDEs.gif?raw=true"  width = 50px>  </picture> IDEs
 
 <p  align="center">
 &emsp;
@@ -80,14 +80,14 @@
 <a  href="#"><img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true"  width = 50px>  </picture> Competitive Programming & Problem Solving
+### <picture>  <img src = "https://github.com/lochuung/lochuung/blob/main/Images/CP_PS.gif?raw=true"  width = 50px>  </picture> Competitive Programming & Problem Solving
 
 <p  align="center">
 &emsp;
 <a  href="#"><img  alt = "Leetcode"  src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"  /></a>
 </p>
 
-### <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true"  width = 50px>  </picture> Operating Systems
+### <picture>  <img src = "https://github.com/lochuung/lochuung/blob/main/Images/OS.gif?raw=true"  width = 50px>  </picture> Operating Systems
 
 <p  align="center">
 &emsp;
@@ -98,7 +98,7 @@
 <a  href="#"><img  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 
-## <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true"  width = 50px>  </picture> Github Stats
+## <picture>  <img src = "https://github.com/lochuung/lochuung/blob/main/Images/Statistics.gif?raw=true"  width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
