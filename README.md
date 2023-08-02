@@ -6,14 +6,14 @@
 - :school: I am a `Student`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://4onl.net/).
+- :boom: You can visit <a href="https://4onl.net" target="_blank">MY WEBSITE</a>
 <br>
 
 ## <picture>  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true"  width="100px">  </picture> Connect with me
 
 <p  align="center">
-<a  href="https://github.com/lochuung"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="GitHub"/></a>
-<a  href="https://www.facebook.com/lochuu.ng"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  alt="Facebook"/></a>
+<a  href="https://github.com/lochuung" target="_blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="GitHub"/></a>
+<a  href="https://www.facebook.com/lochuu.ng" target="_blank"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  alt="Facebook"/></a>
 </p>
 
 ## 🛠️ My Skills
