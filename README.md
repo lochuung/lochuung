@@ -6,7 +6,6 @@
 - :school: I am a `Student`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit <a href="https://4onl.net" target="_blank">MY WEBSITE</a>
 <br>
 
 ## <picture>  <img src="https://github.com/lochuung/lochuung/blob/main/Images/Connect-with-me.gif?raw=true"  width="100px">  </picture> Connect with me
