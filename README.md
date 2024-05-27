@@ -1,6 +1,7 @@
 
 <h1  align="center">Hi , I'm Nguyen Huu Loc<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="35"></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochuung&label=Profile%20views&color=0e75b6&style=flat" alt="lochuung" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lochuung" alt="lochuung" /></a> </p>
 
@@ -32,24 +33,10 @@
 
 ## <picture>  <img src = "https://github.com/lochuung/lochuung/blob/main/Images/Statistics.gif?raw=true"  width = 50px>  </picture> Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochuung&label=Profile%20views&color=0e75b6&style=flat" alt="lochuung" /> </p>
-<p align="center"><a href="https://www.buymeacoffee.com/lochuung"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lochuung" /></a></p>
-<br><br>
+<p><a href="https://www.buymeacoffee.com/lochuung"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lochuung" /></a></p><br><br>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochuung&show_icons=true&locale=en&layout=compact" alt="lochuung" /></p>
 
-----
-  
-<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=lochuung&theme=tokyonight_duo"  alt="7oSkaaa"  /></p>
-</details>
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lochuung&show_icons=true&locale=en" alt="lochuung" /></p>
 
-----
-<p  align="center">
-<a  href="https://github.com/anuraghazra/github-readme-stats">
-<img  alt="lochuung's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=lochuung&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact"  height="230px"/></a>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lochuung&langs_count=10&show_icons=true&locale=en&theme=tokyonight"  alt="lochuung"  height="230px"/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lochuung&" alt="lochuung" /></p>
